@@ -52,11 +52,12 @@ class DefaultFirebaseOptions {
     }
   }
 
+    
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA9PfGOdCtLFmI-f77Dm3PMxlzEhgvLjPs',
-    appId: '1:318292778044:android:b3973a0e43539bf5863739',
-    messagingSenderId: '318292778044',
-    projectId: 'kavruk-0773-app',
-    storageBucket: 'kavruk-0773-app.firebasestorage.app',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    storageBucket: ' ',
   );
 }
